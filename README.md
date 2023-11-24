@@ -55,5 +55,19 @@ The project is divided into two primary components:
    - The recognized body language class and its probability will be displayed on the screen.
   
 
+## **File Structure:**
+```
+├── body_language_recognition.py     # Main script for data collection and recognition
+├── coords.csv                       # CSV file containing collected coordinates
+├── body_language.pkl                # Pickled model file
+└── README.md                        # Project readme file
+```
+
+## **Requirements:**
+- Python 3.x
+- OpenCV: Python library for computer vision tasks.
+- Mediapipe: Google's framework for building multimodal applied machine learning pipelines.
+- Pandas: Data manipulation and analysis library.
+- Scikit-learn: Machine learning library for Python.
 
 
