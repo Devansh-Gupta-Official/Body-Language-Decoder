@@ -18,7 +18,7 @@ The project is divided into two primary components:
 
 ### Model Training and Real-time Recognition
 - **Data Preparation:**
-- Loads the collected CSV file containing landmark data.
+- - Loads the collected CSV file containing landmark data.
 - Splits the dataset into training and testing sets.
 - **Machine Learning Models:**
   Employs various classifiers:
