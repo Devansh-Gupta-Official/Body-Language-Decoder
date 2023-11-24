@@ -32,4 +32,14 @@ The project is divided into two primary components:
 - **Model Persistence:**
   Saves the best-performing model using Pickle for real-time recognition.
 
+## **Installation**
+1. **Clone the repository:**
+   ```
+   git clone https://github.com/Devanshh-Gupta-Official/Body-Language-Decoder.git
+   ```
+2. **Install Dependencies:**
+   ```
+   pip install -r requirements.txt
+   ```
+
 
