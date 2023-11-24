@@ -57,7 +57,7 @@ The project is divided into two primary components:
 
 ## **File Structure:**
 ```
-├── body_language_recognition.py     # Main script for data collection and recognition
+├── coden.py     # Main script for data collection and recognition
 ├── coords.csv                       # CSV file containing collected coordinates
 ├── body_language.pkl                # Pickled model file
 └── README.md                        # Project readme file
@@ -69,5 +69,12 @@ The project is divided into two primary components:
 - Mediapipe: Google's framework for building multimodal applied machine learning pipelines.
 - Pandas: Data manipulation and analysis library.
 - Scikit-learn: Machine learning library for Python.
+
+## **Results:**
+![image](https://github.com/Devansh-Gupta-Official/Body-Language-Decoder/assets/100591612/4fc1e7e5-bbcf-4447-9548-9f37662f878e)
+![image](https://github.com/Devansh-Gupta-Official/Body-Language-Decoder/assets/100591612/1b8dfb6a-d502-4322-9fae-9dadee9ffbc7)
+![image](https://github.com/Devansh-Gupta-Official/Body-Language-Decoder/assets/100591612/c44c7b27-7f84-4860-95a1-5c08282d1f96)
+
+
 
 
