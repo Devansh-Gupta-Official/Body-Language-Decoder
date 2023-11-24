@@ -35,11 +35,25 @@ The project is divided into two primary components:
 ## **Installation**
 1. **Clone the repository:**
    ```
-   git clone https://github.com/Devanshh-Gupta-Official/Body-Language-Decoder.git
+   git clone https://github.com/Devansh-Gupta-Official/Body-Language-Decoder.git
    ```
 2. **Install Dependencies:**
    ```
    pip install -r requirements.txt
    ```
+   
+## **Usage**
+1. **Run the main script:**
+   ```
+   python code.py
+   ```
+2. **Prepare Webcam:**
+   - Ensure your webcam is connected and properly positioned.
+   - Have sufficient lighting for accurate landmark detection.
+3. **Gesture Recognition:**
+   - Perform gestures in front of the camera to see real-time recognition results.
+   - The recognized body language class and its probability will be displayed on the screen.
+  
+
 
 
