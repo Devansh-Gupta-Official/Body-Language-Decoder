@@ -17,5 +17,19 @@ The project is divided into two primary components:
   Saves the collected data into a CSV file for subsequent model training.
 
 ### Model Training and Real-time Recognition
+- **Data Preparation:**
+- Loads the collected CSV file containing landmark data.
+- Splits the dataset into training and testing sets.
+- **Machine Learning Models:**
+  Employs various classifiers:
+- Logistic Regression
+- Ridge Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- **Model Training and Evaluation:**
+- Trains the models on the training set.'
+- Evaluates model accuracy on the test set.
+- **Model Persistence:**
+  Saves the best-performing model using Pickle for real-time recognition.
 
 
